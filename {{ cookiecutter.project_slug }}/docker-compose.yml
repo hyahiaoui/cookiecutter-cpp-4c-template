@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  {{ cookiecutter.project_slug }}:
+    build: .
+    volumes:
+      - .:/usr/src/app/
+      # Avoid re-installing requirements, every time, by using this volume
+      - ./.conan/:/root/.conan/
