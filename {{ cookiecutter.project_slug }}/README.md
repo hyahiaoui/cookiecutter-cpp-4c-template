@@ -8,6 +8,7 @@
  * [Description](#description)
  * [Usage Without Docker](#usage-without-docker)
  * [Usage With Docker](#usage-with-docker)
+ * [References](#references)
 
 *****
 
@@ -208,3 +209,9 @@ One can format the C++ code using `clang-format` tool, by invoking
 ```bash
 $ make dckr-format
 ```
+
+*****
+
+## References
+
+This project was bootstrapped with [CookieCutter C++ 4C Project Template](https://github.com/hyahiaoui/cookiecutter-cpp-4c-template).
