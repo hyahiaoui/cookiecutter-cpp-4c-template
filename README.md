@@ -1,11 +1,11 @@
-# Docker C++ 4C Template
+# CookieCutter C++ 4C Project Template
 
 CookieCutter template for quick creation of C++ project structure with the 4 Cs:
 
 * The [Clang](https://clang.llvm.org) compiler,
 * The [CMake](https://cmake.org) build automation sorftware,
 * The [Conan](https://conan.io) package manager, and
-* The unit testing framework [Catch2](https://github.com/catchorg/Catch2).
+* The [Catch2](https://github.com/catchorg/Catch2) unit testing framework.
 
 ## Table of Contents
 
